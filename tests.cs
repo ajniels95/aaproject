@@ -43,7 +43,7 @@ var lastNames = bob;
 // If the number is a multiple of 3 and 5, write out Fizz Buzz
 
 
-int[] arr = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18};
+// int[] arr = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18};
 // foreach (int i in arr)
 // {
 
