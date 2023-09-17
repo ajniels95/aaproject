@@ -12,3 +12,17 @@
 /Users/andrewjohnson/Desktop/aaproject/obj/Debug/net7.0/devtest.pdb
 /Users/andrewjohnson/Desktop/aaproject/obj/Debug/net7.0/devtest.genruntimeconfig.cache
 /Users/andrewjohnson/Desktop/aaproject/obj/Debug/net7.0/ref/devtest.dll
+C:\Users\AJ.DESKTOP-F2UAJVK\source\repos\aaproject\bin\Debug\net7.0\devtest.exe
+C:\Users\AJ.DESKTOP-F2UAJVK\source\repos\aaproject\bin\Debug\net7.0\devtest.deps.json
+C:\Users\AJ.DESKTOP-F2UAJVK\source\repos\aaproject\bin\Debug\net7.0\devtest.runtimeconfig.json
+C:\Users\AJ.DESKTOP-F2UAJVK\source\repos\aaproject\bin\Debug\net7.0\devtest.dll
+C:\Users\AJ.DESKTOP-F2UAJVK\source\repos\aaproject\bin\Debug\net7.0\devtest.pdb
+C:\Users\AJ.DESKTOP-F2UAJVK\source\repos\aaproject\obj\Debug\net7.0\devtest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AJ.DESKTOP-F2UAJVK\source\repos\aaproject\obj\Debug\net7.0\devtest.AssemblyInfoInputs.cache
+C:\Users\AJ.DESKTOP-F2UAJVK\source\repos\aaproject\obj\Debug\net7.0\devtest.AssemblyInfo.cs
+C:\Users\AJ.DESKTOP-F2UAJVK\source\repos\aaproject\obj\Debug\net7.0\devtest.csproj.CoreCompileInputs.cache
+C:\Users\AJ.DESKTOP-F2UAJVK\source\repos\aaproject\obj\Debug\net7.0\devtest.dll
+C:\Users\AJ.DESKTOP-F2UAJVK\source\repos\aaproject\obj\Debug\net7.0\refint\devtest.dll
+C:\Users\AJ.DESKTOP-F2UAJVK\source\repos\aaproject\obj\Debug\net7.0\devtest.pdb
+C:\Users\AJ.DESKTOP-F2UAJVK\source\repos\aaproject\obj\Debug\net7.0\devtest.genruntimeconfig.cache
+C:\Users\AJ.DESKTOP-F2UAJVK\source\repos\aaproject\obj\Debug\net7.0\ref\devtest.dll
