@@ -68,9 +68,22 @@ int[] arr = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18};
 //     }
 // }
 
-foreach (int i in arr)
-{
-    bool fizz = i % 3 == 0;
-    bool buzz = i % 5 == 0;
-    Console.WriteLine((fizz && buzz) ? "Fizz Buzz" : fizz ? "Fizz" : buzz ? "Buzz" : i);
-}
+// foreach (int i in arr)
+// {
+//     bool fizz = i % 3 == 0;
+//     bool buzz = i % 5 == 0;
+//     Console.WriteLine((fizz && buzz) ? "Fizz Buzz" : fizz ? "Fizz" : buzz ? "Buzz" : i);
+// }
+
+// Create a function that returns the sum of an array of integers
+// int[] intArray = {1,2,3,4,5};
+// int Add(int[] x) {
+
+// }
+// Console.WriteLine(Add(intArray));
+
+// Create a function that returns the largest value on the array
+
+// Create a function that returns values that are duplicates on the array
+
+// Create a function the makes the values in an array unique
