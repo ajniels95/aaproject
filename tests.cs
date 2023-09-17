@@ -46,22 +46,23 @@ var lastNames = bob;
 int[] arr = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18};
 foreach (int i in arr)
 {
-    if (i % 3 == 0)
-    {
-        Console.WriteLine("Fizz");
-    }
-
-    if (i % 5 == 0)
-    {
-        Console.WriteLine("Buzz");
-    }
 
     if (i % 3 == 0 && i % 5 == 0)
     {
         Console.WriteLine("Fizz Buzz");
+    } 
+
+    else if (i % 3 == 0)
+    {
+        Console.WriteLine("Fizz");
     }
 
-    if (i % 3 != 0 && i % 5 != 0) 
+    else if (i % 5 == 0)
+    {
+        Console.WriteLine("Buzz");
+    }
+
+    else 
     {
         Console.WriteLine(i);
     }
