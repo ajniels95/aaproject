@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AJ.DESKTOP-F2UAJVK\\source\\repos\\devtest\\devtest.csproj": {}
+    "/Users/andrewjohnson/Desktop/aaproject/devtest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AJ.DESKTOP-F2UAJVK\\source\\repos\\devtest\\devtest.csproj": {
+    "/Users/andrewjohnson/Desktop/aaproject/devtest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AJ.DESKTOP-F2UAJVK\\source\\repos\\devtest\\devtest.csproj",
+        "projectUniqueName": "/Users/andrewjohnson/Desktop/aaproject/devtest.csproj",
         "projectName": "devtest",
-        "projectPath": "C:\\Users\\AJ.DESKTOP-F2UAJVK\\source\\repos\\devtest\\devtest.csproj",
-        "packagesPath": "C:\\Users\\AJ.DESKTOP-F2UAJVK\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AJ.DESKTOP-F2UAJVK\\source\\repos\\devtest\\obj\\",
+        "projectPath": "/Users/andrewjohnson/Desktop/aaproject/devtest.csproj",
+        "packagesPath": "/Users/andrewjohnson/.nuget/packages/",
+        "outputPath": "/Users/andrewjohnson/Desktop/aaproject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\AJ.DESKTOP-F2UAJVK\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/andrewjohnson/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
         }
       }
     }

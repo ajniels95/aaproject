@@ -1,0 +1,14 @@
+/Users/andrewjohnson/Desktop/aaproject/bin/Debug/net7.0/devtest
+/Users/andrewjohnson/Desktop/aaproject/bin/Debug/net7.0/devtest.deps.json
+/Users/andrewjohnson/Desktop/aaproject/bin/Debug/net7.0/devtest.runtimeconfig.json
+/Users/andrewjohnson/Desktop/aaproject/bin/Debug/net7.0/devtest.dll
+/Users/andrewjohnson/Desktop/aaproject/bin/Debug/net7.0/devtest.pdb
+/Users/andrewjohnson/Desktop/aaproject/obj/Debug/net7.0/devtest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewjohnson/Desktop/aaproject/obj/Debug/net7.0/devtest.AssemblyInfoInputs.cache
+/Users/andrewjohnson/Desktop/aaproject/obj/Debug/net7.0/devtest.AssemblyInfo.cs
+/Users/andrewjohnson/Desktop/aaproject/obj/Debug/net7.0/devtest.csproj.CoreCompileInputs.cache
+/Users/andrewjohnson/Desktop/aaproject/obj/Debug/net7.0/devtest.dll
+/Users/andrewjohnson/Desktop/aaproject/obj/Debug/net7.0/refint/devtest.dll
+/Users/andrewjohnson/Desktop/aaproject/obj/Debug/net7.0/devtest.pdb
+/Users/andrewjohnson/Desktop/aaproject/obj/Debug/net7.0/devtest.genruntimeconfig.cache
+/Users/andrewjohnson/Desktop/aaproject/obj/Debug/net7.0/ref/devtest.dll
