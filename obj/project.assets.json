@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AJ.DESKTOP-F2UAJVK\\source\\repos\\aproject\\aproject.csproj",
-      "projectName": "aproject",
-      "projectPath": "C:\\Users\\AJ.DESKTOP-F2UAJVK\\source\\repos\\aproject\\aproject.csproj",
+      "projectUniqueName": "C:\\Users\\AJ.DESKTOP-F2UAJVK\\source\\repos\\devtest\\devtest.csproj",
+      "projectName": "devtest",
+      "projectPath": "C:\\Users\\AJ.DESKTOP-F2UAJVK\\source\\repos\\devtest\\devtest.csproj",
       "packagesPath": "C:\\Users\\AJ.DESKTOP-F2UAJVK\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AJ.DESKTOP-F2UAJVK\\source\\repos\\aproject\\obj\\",
+      "outputPath": "C:\\Users\\AJ.DESKTOP-F2UAJVK\\source\\repos\\devtest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AJ.DESKTOP-F2UAJVK\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -57,9 +57,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
