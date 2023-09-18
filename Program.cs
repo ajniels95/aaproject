@@ -39,9 +39,9 @@
         //decimal zahirahScore = (decimal)zahirahSum / currentAssignments;
         //decimal jeongScore = (decimal)jeongSum / currentAssignments;
 
-        string getGrade(int sum)
+        string getGrade(decimal sum)
         {
-            decimal gradeValue = (decimal)sum / currentAssignments;
+            decimal gradeValue = sum / currentAssignments;
             return gradeValue > 90 
                 ? gradeValue + "\tA" 
                 : gradeValue > 80 
