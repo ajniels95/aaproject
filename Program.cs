@@ -34,16 +34,27 @@
         int zahirahSum = zahirah1 + zahirah2 + zahirah3 + zahirah4 + zahirah5;
         int jeongSum = jeong1 + jeong2 + jeong3 + jeong4 + jeong5;
 
-        decimal sophiaScore = (decimal)sophiaSum / currentAssignments;
-        decimal nicolasScore = (decimal)nicolasSum / currentAssignments;
-        decimal zahirahScore = (decimal)zahirahSum / currentAssignments;
-        decimal jeongScore = (decimal)jeongSum / currentAssignments;
+        //decimal sophiaScore = (decimal)sophiaSum / currentAssignments;
+        //decimal nicolasScore = (decimal)nicolasSum / currentAssignments;
+        //decimal zahirahScore = (decimal)zahirahSum / currentAssignments;
+        //decimal jeongScore = (decimal)jeongSum / currentAssignments;
 
-        // Assignment calls for manually assigning letter grades. I want to calculate the letter grades based off the the score.
+        string getGrade(int sum)
+        {
+            decimal gradeValue = (decimal)sum / currentAssignments;
+            return gradeValue > 90 
+                ? gradeValue + "\tA" 
+                : gradeValue > 80 
+                ? gradeValue + "\tB" 
+                : gradeValue > 70 
+                ? gradeValue + "\tC" 
+                : gradeValue + "\tF";
+        }
+
         Console.WriteLine("Student Grade\n");
-        Console.WriteLine("Sophia:\t\t" + sophiaScore + "\tA");
-        Console.WriteLine("Nicolas:\t" + nicolasScore + "\tB");
-        Console.WriteLine("Zahirah:\t" + zahirahScore + "\tB");
-        Console.WriteLine("Jeong:\t\t" + jeongScore + "\tA");
+        Console.WriteLine("Sophia:\t\t" + getGrade(sophiaSum));
+        Console.WriteLine("Nicolas:\t" + getGrade(nicolasSum));
+        Console.WriteLine("Zahirah:\t" + getGrade(zahirahSum));
+        Console.WriteLine("Jeong:\t\t" + getGrade(jeongSum));
     }
 }
